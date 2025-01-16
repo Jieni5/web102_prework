@@ -82,6 +82,7 @@ button {
     border-radius: 7px;
 }
 button:hover {
+    background-color: lightcyan;
     font-family: 'Cabin';
     border: none;
     padding: 1%;
