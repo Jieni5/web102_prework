@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IilBUDt" data-context="false" ><a href="//imgur.com/a/IilBUDt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/V3Hoyi8
+
+alternatively, check it out in the video folder
 
 
 ## Notes
